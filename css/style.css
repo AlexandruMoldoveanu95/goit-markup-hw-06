@@ -581,8 +581,8 @@ body {
   align-items: center;
   justify-content: center;
   position: absolute;
-  right: 8px;
-  top: 16px;
+  right: 1.5%;
+  top: 2.3%;
   fill: currentColor;
 }
 .close-modal-icon {
